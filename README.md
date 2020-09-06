@@ -1,2 +1,2 @@
 # Fibonacci
-Fibonacci using Python
+Fibonacci series using Python
